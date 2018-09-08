@@ -1,2 +1,2 @@
-#define WIFI_SSID "98FM"
-#define WIFI_PASSWORD "potentiometer"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "password"
